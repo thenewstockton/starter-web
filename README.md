@@ -17,3 +17,7 @@ test222
 ### Copyright
 
 phil TM
+
+## how to contribute
+
+please fork it
