@@ -20,4 +20,8 @@ phil TM
 
 ## how to contribute
 
-please fork it
+please fork it add a line for rebase
+
+# Purpose 
+
+adding a line
