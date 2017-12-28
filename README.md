@@ -21,7 +21,7 @@ test222
 ### Copyright
 
 phil TM
-
+all rights reserved
 ## how to contribute
 
 please fork it add a line for rebase
