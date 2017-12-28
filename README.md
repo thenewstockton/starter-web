@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 more changes from myfeature
 
+more from feature
+
 ## Purpose
 
 Sample website with plenty of files for demos
