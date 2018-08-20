@@ -41,4 +41,4 @@ more text
 
 more changes from myfeature
 
-All rights reserved
+emergency fix
