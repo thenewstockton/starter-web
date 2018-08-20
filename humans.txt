@@ -15,5 +15,6 @@
     jQuery, Modernizr
     Git, svn
 
-	
-	Thank you
+extra text
+
+HG
