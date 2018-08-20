@@ -40,3 +40,5 @@ redundant changes
 more text
 
 more changes from myfeature
+
+All rights reserved
