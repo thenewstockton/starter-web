@@ -2,3 +2,4 @@ ignore
 *.log
 log/
 *.orig
+noTrack.txt
